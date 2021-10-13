@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16863266303",
+    "firebase_url": "https://shuttletest-8ce9c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shuttletest-8ce9c",
+    "storage_bucket": "shuttletest-8ce9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16863266303:android:6275ee66243f1791ac53ca",
+        "android_client_info": {
+          "package_name": "com.example.shuttle_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16863266303-bstkib965h699qfcaqdqgij5poruktid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shuttle_test",
+            "certificate_hash": "8475472a2fcddf8f275831d1b61e075ae4c6ed4f"
+          }
+        },
+        {
+          "client_id": "16863266303-rcpgkatandcgb7kngstedigciorhsaf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpQf6uCrmyY0P8U1vNDRMRud1T0L5_Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16863266303-rcpgkatandcgb7kngstedigciorhsaf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
